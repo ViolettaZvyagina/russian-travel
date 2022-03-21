@@ -1,0 +1,9 @@
+.intro__list-text {
+  font-family: 'Inter-Bold';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 1.5;
+  display: inline-block;
+  margin: 0;
+}

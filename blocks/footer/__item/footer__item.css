@@ -1,0 +1,19 @@
+.footer__item {
+  margin: 0;
+  padding-right: 18px;
+}
+
+.footer__item:last-of-type {
+  padding-right: 0;
+}
+
+@media screen and (max-width: 520px) {
+  .footer__item{
+    padding-right: 0;
+    padding-bottom: 32px;
+  }
+  
+  .footer__item:last-of-type {
+    padding-bottom: 48px;
+  }
+}
