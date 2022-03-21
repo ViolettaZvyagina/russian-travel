@@ -2,4 +2,4 @@
 2. Сайт о живописных местах России представлен в виде текста , фотокарточек и ссылок на ресурсы о путешествиях.
 3.  В этом проекте мы делаем верстку макета, используя возможности HTML и CSS.
 Мы пользуемся такими инструментами как : flexbox, grid, БЭМ, адаптивная верстка, Git.
-4. https://violettazvyagina.github.io/russian-travel/index.html
+4. https://violettazvyagina.github.io/russian-travel/
